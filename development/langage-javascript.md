@@ -6,41 +6,47 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ❌
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 ```javascript
+// fonction Einstein
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌
 
 [lien github](...)
 
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ❌
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ❌
 
 Description :
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### MDN Web Docs (Javascript)
 
-- lien
-- description
+- https://developer.mozilla.org/fr/docs/Web/JavaScript
+- Doc faite par les créateurs de Firefox
+
+### StackOverflow
+
+- https://stackoverflow.com/
+- Forum du dev pour trouver, les réponses à nos questions
 
 ## 🚧 Je franchis les obstacles
 
